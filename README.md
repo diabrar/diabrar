@@ -1,6 +1,6 @@
 ### Hello! I'm Dia. 
-I'm a student at Northeastern University studying Computer Science. 
-You can reach me at brar.d@northeastern.edu
+I'm a student at Northeastern University majoring in Computer Science. 
+You can reach me at brar.d@northeastern.edu.
 
 <!--
 **diabrar/diabrar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
